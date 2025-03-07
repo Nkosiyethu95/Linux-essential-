@@ -5,7 +5,7 @@ Description: A powerful, open-source operating system used for servers, desktops
 Use Case: Runs web servers, cloud platforms, supercomputers, and IoT devices.
 Popular Distros: Ubuntu, Debian, Fedora, CentOS, Arch Linux.
 
-3. Web Servers & Hosting
+3. *Web Servers & Hosting*
 Apache HTTP Server
 Description: One of the most widely used web servers, known for its stability and flexibility.
 Use Case: Hosting websites and applications on the internet.
