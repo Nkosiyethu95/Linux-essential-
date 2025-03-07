@@ -1,0 +1,47 @@
+**What is Open Source Software?**
+Open Source Software (OSS) refers to software whose source code is freely available for anyone to view, modify, and distribute. Unlike proprietary software (e.g., Windows, macOS), OSS is built collaboratively and maintained by communities.
+
+✅ **Key Characteristics of OSS**
+
+Free Redistribution – Can be shared without restrictions.
+Source Code Availability – Users can inspect, modify, and improve the code.
+Derived Works Allowed – Modified versions can be distributed.
+No Discrimination – Available for any purpose and user.
+✅ Examples of Open Source Software
+
+Linux distributions – Ubuntu, Debian, CentOS
+Web servers – Apache, Nginx
+Databases – MySQL, PostgreSQL
+Development tools – Git, GCC, Docker
+2️⃣ Open Source Licenses & Their Types
+To ensure legal protection and compliance, Open Source Software is released under licenses.
+
+🔹 1. Copyleft Licenses (Restrictive)
+GNU General Public License (GPL)
+
+Any modified version must be released under the same GPL license.
+Ensures that software remains free and open-source.
+Example: Linux Kernel is licensed under GPL.
+Affero GPL (AGPL)
+
+Similar to GPL but extends the requirement to network-based software.
+🔹 2. Permissive Licenses (Less Restrictive)
+MIT License
+
+Allows modification, redistribution, and even commercialization.
+Example: Node.js and React.js use the MIT License.
+Apache License
+
+Similar to MIT but includes patent protection.
+Example: Apache Web Server, Kubernetes.
+BSD License
+
+Even fewer restrictions than Apache/MIT.
+Example: FreeBSD, OpenBSD.
+🔹 3. Public Domain & Custom Licenses
+Creative Commons (CC0) – No rights reserved; anyone can use it freely.
+Proprietary Software – Closed-source, legally restricted (e.g., Windows, macOS).
+3️⃣ Why Licensing Matters
+🔹 Prevents legal issues when using or modifying software.
+🔹 Encourages collaboration while protecting developers' work.
+🔹 Ensures software stays free and open (Copyleft) or allows flexibility (Permissive).
